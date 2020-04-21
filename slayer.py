@@ -5,7 +5,8 @@ from discord import Game
 from discord.ext.commands import Bot
 
 BOT_PREFIX = ("?", "!")
-TOKEN = "NTI3Nzg2Nzc0ODIzNjk4NDQy.DwY4KQ.hOctlde0bnSOgJyMXYQDBSbIrjM"
+# INSERT DISCORD BOT TOKEN HERE
+TOKEN = ""
 GOBLIN_LIST = {}
 ADMIN_LIST = {}
 TROLL_LIST = {}
